@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/852748515718203771/084c5297eb98409eaa564993ddf10088/artifacts
+end_time: 1730137361718
+entry_point_name: ''
+experiment_id: '852748515718203771'
+lifecycle_stage: active
+run_id: 084c5297eb98409eaa564993ddf10088
+run_name: monumental-fox-309
+run_uuid: 084c5297eb98409eaa564993ddf10088
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730137361614
+status: 4
+tags: []
+user_id: Dell

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/283474958525196974/4e44714a18424bd09b9ccd06e20db064/artifacts
+end_time: 1730112754765
+entry_point_name: ''
+experiment_id: '283474958525196974'
+lifecycle_stage: active
+run_id: 4e44714a18424bd09b9ccd06e20db064
+run_name: nosy-hen-374
+run_uuid: 4e44714a18424bd09b9ccd06e20db064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730112754683
+status: 3
+tags: []
+user_id: Dell

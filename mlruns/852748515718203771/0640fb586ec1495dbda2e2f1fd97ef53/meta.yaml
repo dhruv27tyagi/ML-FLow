@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/852748515718203771/0640fb586ec1495dbda2e2f1fd97ef53/artifacts
+end_time: 1730137417386
+entry_point_name: ''
+experiment_id: '852748515718203771'
+lifecycle_stage: active
+run_id: 0640fb586ec1495dbda2e2f1fd97ef53
+run_name: spiffy-snipe-231
+run_uuid: 0640fb586ec1495dbda2e2f1fd97ef53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730137410764
+status: 3
+tags: []
+user_id: Dell
