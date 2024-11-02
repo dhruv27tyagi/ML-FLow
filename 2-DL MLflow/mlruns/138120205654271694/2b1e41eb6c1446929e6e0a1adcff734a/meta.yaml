@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Dell/Desktop/ML%20FLow/2-DL%20MLflow/mlruns/138120205654271694/2b1e41eb6c1446929e6e0a1adcff734a/artifacts
+end_time: 1730534487471
+entry_point_name: ''
+experiment_id: '138120205654271694'
+lifecycle_stage: active
+run_id: 2b1e41eb6c1446929e6e0a1adcff734a
+run_name: whimsical-foal-491
+run_uuid: 2b1e41eb6c1446929e6e0a1adcff734a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730534485826
+status: 4
+tags: []
+user_id: Dell

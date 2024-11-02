@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Dell/Desktop/ML%20FLow/2-DL%20MLflow/mlruns/138120205654271694/dc98db6a8d3d46c1a56e334afa77fec3/artifacts
+end_time: 1730534376713
+entry_point_name: ''
+experiment_id: '138120205654271694'
+lifecycle_stage: active
+run_id: dc98db6a8d3d46c1a56e334afa77fec3
+run_name: welcoming-perch-33
+run_uuid: dc98db6a8d3d46c1a56e334afa77fec3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730534375235
+status: 4
+tags: []
+user_id: Dell

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Dell/Desktop/ML%20FLow/2-DL%20MLflow/mlruns/138120205654271694/9b6c59ac5e804310bb6933c4ed8cbe92/artifacts
+end_time: 1730534487466
+entry_point_name: ''
+experiment_id: '138120205654271694'
+lifecycle_stage: active
+run_id: 9b6c59ac5e804310bb6933c4ed8cbe92
+run_name: classy-duck-665
+run_uuid: 9b6c59ac5e804310bb6933c4ed8cbe92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730534485894
+status: 4
+tags: []
+user_id: Dell
